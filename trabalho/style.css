@@ -1,0 +1,22 @@
+h1 {
+    color:#008080;
+    font-size: 36px;
+    font-family: Georgia;
+    text-align: center;
+}
+h2 {
+    color: #48D1CC;
+
+}
+svg { 
+    height: 15px;
+}
+ul {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    align-items: center;
+    list-style: none;
+    text-decoration: none;
+    padding: 0%;
+}
